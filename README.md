@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o [João Vitor de Matos Ferreira]! 👋
 
-<!--
-**jovix10/jovix10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim
+- 🎓 Estudante de **Sistemas de Informação** na Uninorte.
+- 🎓 Estudante de **Gestão Em Recursos Humanos** na Fasul.
+- 📊 Atuando como **Estagiário de Análise de Dados** no SENAI.
+- 💡 Apaixonado por transformar dados em decisões e processos manuais em automação.
+- 🎯 Focado em **People Analytics**, Inteligência Artificial e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+### 🏆 Conquistas
+- 🥇 **1º Lugar no Prêmio IEL de Talentos 2025** (Projeto de Automação de Cadastros/AgilizaBot).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+### 📈 Estatísticas do GitHub
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JV-Ferreira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</p>
+
+📫 **Como me encontrar:**
+[LinkedIn](www.linkedin.com/in/joão-vitor-ferreira-a0902a3b2) | [E-mail](joaovitormatosti@gmail.com)
