@@ -1,4 +1,4 @@
-# Olá, eu sou o [João Vitor de Matos Ferreira]! 👋
+# Olá, eu sou o João Vitor de Matos Ferreira]! 👋
 
 ### 👨‍💻 Sobre Mim
 - 🎓 Estudante de **Sistemas de Informação** na Uninorte.
