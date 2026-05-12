@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre Mim
 - 🎓 Estudante de **Sistemas de Informação** na Uninorte.
 - 🎓 Estudante de **Gestão Em Recursos Humanos** na Fasul.
-- 📊 Atuando como **Estagiário de Análise de Dados** no SENAI.
+- 📊 Atuando como **Assistente de Suporte a Gestão** no SENAI.
 - 💡 Apaixonado por transformar dados em decisões e processos manuais em automação.
 - 🎯 Focado em **People Analytics**, Inteligência Artificial e Desenvolvimento de Sistemas.
 
